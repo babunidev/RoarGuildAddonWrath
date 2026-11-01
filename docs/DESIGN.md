@@ -2,7 +2,7 @@
 
 This is the Wrath 3.3.5 port of Roar Guild Addon, preserved under the original installed name **ROARTrigger**. Roarboard was developed later after my return to 1.12, and is absent from this port.
 
-The design gives action presses in my game an occasional expressive afterbeat. I renamed the repository **EmoteTrigger**, but the addon still uses the historical **ROARTrigger** identity.
+The design gives action presses in my game an occasional expressive afterbeat. The repository is now named **RoarGuildAddonWrath**, but the addon still uses the historical **ROARTrigger** identity.
 
 **Creative author:** Babuni.
 
