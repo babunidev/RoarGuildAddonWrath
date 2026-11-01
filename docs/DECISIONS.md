@@ -1,4 +1,4 @@
-# EmoteTrigger — evidence-based decisions and open questions
+# Roar Guild Addon Wrath — evidence-based decisions and open questions
 
 **Decision-maker:** Babuni. Code and commits can show implementation, not hidden approval dialogues.
 
@@ -36,3 +36,7 @@ Document each decision when Babuni actually makes it; this analysis authorizes n
 ## November 2026 — repository identity
 
 The GitHub project now bears my chosen name **EmoteTrigger**, formerly **ROARemoteTrigger**. Its installed addon remains **ROARTrigger**. This distinguishes the repository's descriptive identity from the historical runtime files, slash commands and saved variables. No gameplay migration or testing was performed.
+
+## November 2026 — current project name
+
+I chose **Roar Guild Addon Wrath** for this client port, rather than presenting it as a numbered sequel. The repository is **RoarGuildAddonWrath**. Roarboard was developed after my return to 1.12 and is absent here. The installed **ROARTrigger** files and runtime identifiers remain unchanged.
