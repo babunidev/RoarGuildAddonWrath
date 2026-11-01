@@ -1,4 +1,6 @@
-# EmoteTrigger — in-world content and vocabulary
+# Roar Guild Addon Wrath — in-world content and vocabulary
+
+This is the Wrath 3.3.5 port of Roar Guild Addon, preserved under the original installed name **ROARTrigger**. Roarboard was developed later after my return to 1.12, and is absent from this port.
 
 This inventory belongs to the renamed **EmoteTrigger** repository, documenting the existing **ROARTrigger** addon content and guild invitation messages. The rename does not change game text or emote selections.
 
