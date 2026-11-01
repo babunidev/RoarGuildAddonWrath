@@ -57,7 +57,7 @@ The questions that remain concern real behavior in the target client: secure hoo
 
 ## November 2026 — EmoteTrigger
 
-The GitHub repository formerly known as **ROARemoteTrigger** is now named **EmoteTrigger**. I selected the shorter description for an addon that responds to action-bar presses with occasional character emotes. The source still carries the historical **ROARTrigger** identity and the `/rogu` command set, with a Wrath 3.3.5 interface target. At my request, an AI assistant revised the project documentation and attribution, without editing or testing the runtime addon.
+The GitHub repository initially called **ROARemoteTrigger** was briefly renamed **EmoteTrigger** and is now **RoarGuildAddonWrath**. I selected the shorter description for an addon that responds to action-bar presses with occasional character emotes. The source still carries the historical **ROARTrigger** identity and the `/rogu` command set, with a Wrath 3.3.5 interface target. At my request, an AI assistant revised the project documentation and attribution, without editing or testing the runtime addon.
 
 ## November 2026 — why the Wrath port exists
 
