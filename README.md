@@ -121,3 +121,7 @@ For source provenance and how the package evolved, see [the journal](docs/DEVLOG
 - [Architecture](docs/ARCHITECTURE.md) · [Design and technical decisions](docs/DECISIONS.md) · [Development journal](docs/DEVLOG.md)
 - [Verification roadmap](ROADMAP.md) · [Changelog](CHANGELOG.md)
 - [AI collaboration and attribution](docs/AI_COLLABORATION.md) · [Development-agent instructions](AGENTS.md)
+
+## Place in the expressive-addon history
+
+Roar Guild Addon Wrath is the Wrath 3.3.5 port of the earlier Roar Guild emote system, not a numbered sequel. Its repository was formerly ROARemoteTrigger, briefly EmoteTrigger; the installed addon remains ROARTrigger (`/rogu`, ROGUDB). It retains a **player-extensible native-emote registry** starting with ROAR, multiple configured action-slot triggers and a manually invoked guild-recruitment chat command. It does **not** include the Roarboard added to the separate Vanilla guild-addon project after returning to that client. The [source-grounded family history](docs/EMOTE_FAMILY_HISTORY.md) traces the earlier battle emotes, the Vanilla guild edition and the later spellcast-aware Flourish Forever.

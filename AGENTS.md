@@ -35,3 +35,7 @@ This is a **Wrath 3.3.5 / interface 30300** artifact and has **no Roarboard**. D
 6. Preserve MIT license, author credit and existing source identifiers; avoid runtime edits in documentation-only changes.
 
 This 2026-10-26 session **only** adds/rewrites Markdown documentation and reports unverified behavior honestly.
+
+## Cross-project naming and behavior
+
+Consult [the family history](docs/EMOTE_FAMILY_HISTORY.md) before making lineage claims. The current repository is RoarGuildAddonWrath; the installed addon is ROARTrigger. Its editable native-token registry belongs to the Roar Guild lineage, while later Roarboard belongs only to the separate Vanilla guild-addon release. Keep the author's first-person development history and accurate attribution.

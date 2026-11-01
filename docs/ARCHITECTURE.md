@@ -83,3 +83,7 @@ The separate RoarGuild **1.33** source includes Roarboard, but `ROARTrigger.lua`
 `ROARTrigger.toc` declares `Interface: 30300`, title **RoarTrigger**, version **1.32**, author Babuni, account-wide SavedVariables `ROGUDB` and Lua file `ROARTrigger.lua`. Current repository name is **RoarGuildAddonWrath**, which is distinct from installation folder. No additional media, sound pack, or GUI files were observed.
 
 Static considerations requiring runtime tests: availability and permissibility of the secure hook; hook composition with other addons; behavior on invalid or fractional slots; duplicate instance triggers; whether saved data migrates cleanly for every character; and whether the particular Wrath distribution accepts all emote tokens and chat calls. None is claimed to be a reproduced bug.
+
+## Related development history
+
+Roar Guild Addon Wrath is the Wrath 3.3.5 port of the earlier Roar Guild emote system, not a numbered sequel. Its repository was formerly ROARemoteTrigger, briefly EmoteTrigger; the installed addon remains ROARTrigger (`/rogu`, ROGUDB). It retains a **player-extensible native-emote registry** starting with ROAR, multiple configured action-slot triggers and a manually invoked guild-recruitment chat command. It does **not** include the Roarboard added to the separate Vanilla guild-addon project after returning to that client. See the [complete source-grounded timeline](EMOTE_FAMILY_HISTORY.md) for its relationship to the other emote addons.

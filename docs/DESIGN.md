@@ -41,3 +41,7 @@ The source has no Roarboard or shared posting panel. Copying descriptions of Roa
 - Is the occasional local reminder still welcome after longer sessions?
 
 Keep these as questions until Babuni tests and decides.
+
+## Related development history
+
+Roar Guild Addon Wrath is the Wrath 3.3.5 port of the earlier Roar Guild emote system, not a numbered sequel. Its repository was formerly ROARemoteTrigger, briefly EmoteTrigger; the installed addon remains ROARTrigger (`/rogu`, ROGUDB). It retains a **player-extensible native-emote registry** starting with ROAR, multiple configured action-slot triggers and a manually invoked guild-recruitment chat command. It does **not** include the Roarboard added to the separate Vanilla guild-addon project after returning to that client. See the [complete source-grounded timeline](EMOTE_FAMILY_HISTORY.md) for its relationship to the other emote addons.

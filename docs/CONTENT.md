@@ -36,3 +36,7 @@ The interface prints simple local chat diagnostics and configuration values such
 ## Authorship / use in a public portfolio
 
 Credit the ROAR-themed writing direction to Babuni and distinguish native game emote tokens from project-authored recruitment text. A docs-only reconstruction must not invent which collaborator first drafted each phrase. Do not copy player chat logs or confidential guild exchanges into the portfolio.
+
+## Related development history
+
+Roar Guild Addon Wrath is the Wrath 3.3.5 port of the earlier Roar Guild emote system, not a numbered sequel. Its repository was formerly ROARemoteTrigger, briefly EmoteTrigger; the installed addon remains ROARTrigger (`/rogu`, ROGUDB). It retains a **player-extensible native-emote registry** starting with ROAR, multiple configured action-slot triggers and a manually invoked guild-recruitment chat command. It does **not** include the Roarboard added to the separate Vanilla guild-addon project after returning to that client. See the [complete source-grounded timeline](EMOTE_FAMILY_HISTORY.md) for its relationship to the other emote addons.

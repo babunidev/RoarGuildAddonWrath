@@ -40,3 +40,7 @@ Document each decision when Babuni actually makes it; this analysis authorizes n
 ## November 2026 — current project name
 
 I chose **Roar Guild Addon Wrath** for this client port, rather than presenting it as a numbered sequel. The repository is **RoarGuildAddonWrath**. Roarboard was developed after my return to 1.12 and is absent here. The installed **ROARTrigger** files and runtime identifiers remain unchanged.
+
+## Related development history
+
+Roar Guild Addon Wrath is the Wrath 3.3.5 port of the earlier Roar Guild emote system, not a numbered sequel. Its repository was formerly ROARemoteTrigger, briefly EmoteTrigger; the installed addon remains ROARTrigger (`/rogu`, ROGUDB). It retains a **player-extensible native-emote registry** starting with ROAR, multiple configured action-slot triggers and a manually invoked guild-recruitment chat command. It does **not** include the Roarboard added to the separate Vanilla guild-addon project after returning to that client. See the [complete source-grounded timeline](EMOTE_FAMILY_HISTORY.md) for its relationship to the other emote addons.

@@ -62,3 +62,7 @@ The GitHub repository initially called **ROARemoteTrigger** was briefly renamed 
 ## November 2026 — why the Wrath port exists
 
 During my time on a Wrath 3.3.5 client, I ported the Roar Guild addon to that environment. After returning to the 1.12 client, I continued developing the other version and added Roarboard there. This explains why Roarboard is absent from my Wrath port. I chose the name **Roar Guild Addon Wrath**, and AI updated the documentation at my direction; no gameplay code or tests changed.
+
+## 1 November 2026 — distinguishing the Wrath port from the guild addon
+
+Revisiting this project, I chose **Roar Guild Addon Wrath** as the repository name because it is a port of my ROAR guild emote system, not a new numbered installment. The earlier EmoteTrigger name was too generic for that history. AI compared the Lua command handling with the Vanilla guild addon: both permit user-added native emote tokens, but this Wrath build contains no later Roarboard. The [family timeline](EMOTE_FAMILY_HISTORY.md) now records its correct identity, emote registry and client branch. No source behavior or release was changed.

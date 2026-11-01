@@ -33,3 +33,8 @@ The early file used the internal **RoarGuild** header, while this repository now
 - Renamed the GitHub project to `RoarGuildAddonWrath` at my direction.
 - AI updated documentation with my clarification of the Wrath port and later 1.12 Roarboard development.
 - No runtime files or tests changed.
+
+## 2026-11-01 — documented the family lineage
+
+- Recorded the current name **Roar Guild Addon Wrath**, its earlier ROARemoteTrigger/EmoteTrigger identities and the preserved ROARTrigger installation name.
+- Linked [the expressive-addon history](docs/EMOTE_FAMILY_HISTORY.md) and clarified its user-added emote registry; no runtime changes.
