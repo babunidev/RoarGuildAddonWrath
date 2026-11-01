@@ -7,7 +7,7 @@
 **Target client:** World of Warcraft **Wrath 3.3.5**, interface **30300**  
 **Audit status (2026-10-26):** Git and Lua source reviewed; **no in-game tests** were run.
 
-For this project, I renamed the GitHub repository **EmoteTrigger** to describe its action-triggered emote function more directly. The historical project name was **ROARemoteTrigger**; its installed addon is still **ROARTrigger**, using `ROARTrigger.lua`, `ROARTrigger.toc`, `/rogu` and `ROGUDB`. The repository rename does not change the game-client package.
+The project began under the repository name **ROARemoteTrigger**, was briefly renamed **EmoteTrigger**, and now has the more accurate title **Roar Guild Addon Wrath**. This is my Wrath 3.3.5 port of the guild addon. Its installed package remains **ROARTrigger**, using `ROARTrigger.lua`, `ROARTrigger.toc`, `/rogu` and `ROGUDB`.
 
 **Current project:** Roar Guild Addon Wrath (`RoarGuildAddonWrath` on GitHub). **Historical installed addon:** `ROARTrigger`, targeting Wrath 3.3.5 / interface 30300. This is the Wrath-era port of the Roar Guild addon, not a numbered sequel. After returning to the 1.12 client, I developed Roarboard in the separate Roar Guild Addon; Roarboard is not included in this Wrath version.
 
@@ -111,7 +111,7 @@ The current Lua source includes **33** randomized `<ROAR>` recruiting messages. 
 
 ## What this repository is—and is not
 
-This is the **Wrath 3.3.5-focused ROARTrigger**, in the `ROARemoteTrigger` repository. It shares patterns and historical source naming with [RoarGuild](https://github.com/babunidev/RoarGuild), but it has a separate commit sequence, target client and package name. **It does not include the Roarboard message-board feature** present in the later 1.33 RoarGuild repo, and it does not contain the GodBod exercise system.
+This is the **Wrath 3.3.5-focused ROARTrigger**, in the `RoarGuildAddonWrath` repository. It shares patterns and historical source naming with [RoarGuild](https://github.com/babunidev/RoarGuildAddon), but it has a separate commit sequence, target client and package name. **It does not include the Roarboard message-board feature** present in the later 1.33 RoarGuild repo, and it does not contain the GodBod exercise system.
 
 For source provenance and how the package evolved, see [the journal](docs/DEVLOG.md). This repository is released with an [MIT license](LICENSE) credited to Babuni. During the 2026-10-26 documentation pass, **Lua, TOC and LICENSE were left untouched**.
 
