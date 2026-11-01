@@ -1,6 +1,6 @@
-# ROARemoteTrigger — human–AI collaboration and provenance
+# EmoteTrigger — human–AI collaboration and provenance
 
-**Creator and creative director:** Babuni.dev.
+**Creator and creative director:** Babuni.
 
 ## Creative ownership
 
@@ -26,8 +26,12 @@ For each substantial implementation, write a documentation-ready record that pre
 1. **User direction** — goal, reasoning, constraints and creative authorship.
 2. **AI proposal** — designs, assumptions, limitations and alternatives.
 3. **Iteration** — experiments, misunderstandings, rejected paths and corrections.
-4. **Explicit decision** — what Babuni.dev chose, rejected or postponed.
+4. **Explicit decision** — what Babuni chose, rejected or postponed.
 5. **Implementation** — changed files, commit/PR and compatibility effects.
 6. **Verification** — what was tested in which game client, outcome and remaining unknowns.
 
 When an original conversation is unavailable, label the result **retrospective source reconstruction** and do not invent quotes. Do not publish private guild messages, credentials, or players' identifying information in a public portfolio journal. Preserve external URLs and MIT credit.
+
+## November 2026 — documenting my rename
+
+I renamed the repository from **ROARemoteTrigger** to **EmoteTrigger** and asked my AI assistant to update the written record accordingly. Its work in this session consisted of reviewing existing documentation and revising titles, links and attribution. The historical installed **ROARTrigger** addon and MIT license were preserved. No live game tests were carried out.
