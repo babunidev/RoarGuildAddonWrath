@@ -2,7 +2,7 @@
 
 This is the Wrath 3.3.5 port of Roar Guild Addon, preserved under the original installed name **ROARTrigger**. Roarboard was developed later after my return to 1.12, and is absent from this port.
 
-This technical reference describes the original **ROARTrigger** implementation, now held in my **EmoteTrigger** GitHub repository. Its 3.3.5 interface target and runtime names are unchanged.
+This technical reference describes the original **ROARTrigger** implementation, now held in my **RoarGuildAddonWrath** GitHub repository. Its 3.3.5 interface target and runtime names are unchanged.
 
 **Examined source:** `ROARTrigger.lua`, `ROARTrigger.toc` at the beginning of the 2026-10-26 audit. Source reading; **no client execution**.
 
@@ -80,6 +80,6 @@ The separate RoarGuild **1.33** source includes Roarboard, but `ROARTrigger.lua`
 
 ## Client, packaging and edge cases
 
-`ROARTrigger.toc` declares `Interface: 30300`, title **RoarTrigger**, version **1.32**, author Babuni, account-wide SavedVariables `ROGUDB` and Lua file `ROARTrigger.lua`. Repository name is **ROARemoteTrigger**, which is distinct from installation folder. No additional media, sound pack, or GUI files were observed.
+`ROARTrigger.toc` declares `Interface: 30300`, title **RoarTrigger**, version **1.32**, author Babuni, account-wide SavedVariables `ROGUDB` and Lua file `ROARTrigger.lua`. Current repository name is **RoarGuildAddonWrath**, which is distinct from installation folder. No additional media, sound pack, or GUI files were observed.
 
 Static considerations requiring runtime tests: availability and permissibility of the secure hook; hook composition with other addons; behavior on invalid or fractional slots; duplicate instance triggers; whether saved data migrates cleanly for every character; and whether the particular Wrath distribution accepts all emote tokens and chat calls. None is claimed to be a reproduced bug.
