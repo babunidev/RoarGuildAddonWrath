@@ -1,4 +1,4 @@
-# EmoteTrigger — human–AI collaboration and provenance
+# Roar Guild Addon Wrath — human–AI collaboration and provenance
 
 **Creator and creative director:** Babuni.
 
@@ -35,3 +35,7 @@ When an original conversation is unavailable, label the result **retrospective s
 ## November 2026 — documenting my rename
 
 For this documentation pass, I renamed the repository from **ROARemoteTrigger** to **EmoteTrigger** and asked my AI assistant to update the written record accordingly. Its work in this session consisted of reviewing existing documentation and revising titles, links and attribution. The historical installed **ROARTrigger** addon and MIT license were preserved. No live game tests were carried out.
+
+## November 2026 — my clarification of the client history
+
+The client chronology is my recollection: the Wrath 3.3.5 port came first, then a return to 1.12 and later Roarboard development in the separate guild addon. The current repository name is **RoarGuildAddonWrath**; the installed addon remains **ROARTrigger**. AI revised the documentation at my request rather than changing gameplay.
