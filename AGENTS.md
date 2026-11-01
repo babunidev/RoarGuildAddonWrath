@@ -10,7 +10,7 @@ Write public development narratives from my first-person viewpoint without begin
 
 ## Never collapse identities or attribution
 
-The **GitHub repo** is `ROARemoteTrigger`; the **installable addon** is `ROARTrigger`; the slash command and SavedVariables deliberately remain `/rogu` and `ROGUDB`. The Lua still has a `RoarGuild v1.32` comment. Preserve these observed names and do not silently rename files, the TOC title or protocol identifiers in a documentation pass.
+The **current GitHub repo** is `RoarGuildAddonWrath` (formerly `ROARemoteTrigger` and `EmoteTrigger`); the **installable addon** is `ROARTrigger`; the slash command and SavedVariables deliberately remain `/rogu` and `ROGUDB`. The Lua still has a `RoarGuild v1.32` comment. Preserve these observed names and do not silently rename files, the TOC title or protocol identifiers in a documentation pass.
 
 This is a **Wrath 3.3.5 / interface 30300** artifact and has **no Roarboard**. Do not copy RoarGuild 1.33 feature claims into this repository. A neighboring RoarGuild project exists, but exact port authorship/history needs source evidence.
 
