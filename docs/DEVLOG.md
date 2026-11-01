@@ -1,6 +1,6 @@
-# ROARemoteTrigger — creative and technical development journal
+# EmoteTrigger — creative and technical development journal
 
-**Creative author:** Babuni.dev.  
+**Creative author:** Babuni.  
 **Source base:** Repository README, Lua, TOC and dated GitHub commit diffs inspected 2026-10-26. This is a **retrospective reconstruction**, not a transcript of every human–AI conversation.
 
 ## An expressive idea moving between client environments
@@ -49,8 +49,12 @@ Notably, this standalone source **does not include Roarboard**. Roarboard was de
 
 ## October 26 — documentation becomes part of the artifact
 
-Earlier October 2026 commits standardized Babuni.dev author credit and put down a short documentation scaffold. This pass inspected the current Lua, TOC and public README, compared the original creation, May documentation work and September renaming diffs, and rebuilt a portfolio-ready record.
+Earlier October 2026 commits standardized Babuni author credit and put down a short documentation scaffold. This pass inspected the current Lua, TOC and public README, compared the original creation, May documentation work and September renaming diffs, and rebuilt a portfolio-ready record.
 
 **Creator contribution:** original project vision, character/guild expressive goals and decisions embodied in the committed addon. **AI contribution during this pass:** technical inspection, narrative reconstruction, code/user-guide reconciliation, 33-line content inventory and eleven Markdown documentation files. This session included **no game-client execution, no Lua implementation changes and no new approved design decision**.
 
 The questions that remain concern real behavior in the target client: secure hook support, multiple-addon composition, cooldown/fallback interactions, correct profile migration, and whether the original expressive intensity feels appropriate in the game. The portfolio should leave those visible until tested rather than pretending the finished source is proof of a successful runtime release.
+
+## November 2026 — EmoteTrigger
+
+The GitHub repository formerly known as **ROARemoteTrigger** is now named **EmoteTrigger**. I selected the shorter description for an addon that responds to action-bar presses with occasional character emotes. The source still carries the historical **ROARTrigger** identity and the `/rogu` command set, with a Wrath 3.3.5 interface target. At my request, an AI assistant revised the project documentation and attribution, without editing or testing the runtime addon.
