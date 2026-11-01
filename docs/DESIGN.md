@@ -1,4 +1,6 @@
-# EmoteTrigger — interaction and expression design
+# Roar Guild Addon Wrath — interaction and expression design
+
+This is the Wrath 3.3.5 port of Roar Guild Addon, preserved under the original installed name **ROARTrigger**. Roarboard was developed later after my return to 1.12, and is absent from this port.
 
 The design gives action presses in my game an occasional expressive afterbeat. I renamed the repository **EmoteTrigger**, but the addon still uses the historical **ROARTrigger** identity.
 
