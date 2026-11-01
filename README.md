@@ -1,13 +1,15 @@
-# EmoteTrigger / ROARTrigger
+# Roar Guild Addon Wrath / ROARTrigger
 
 **By:** Babuni  
-**Repository:** [`babunidev/EmoteTrigger`](https://github.com/babunidev/EmoteTrigger)  
+**Repository:** [`babunidev/RoarGuildAddonWrath`](https://github.com/babunidev/RoarGuildAddonWrath)  
 **Installable addon name:** **ROARTrigger**  
 **Version:** **1.32**  
 **Target client:** World of Warcraft **Wrath 3.3.5**, interface **30300**  
 **Audit status (2026-10-26):** Git and Lua source reviewed; **no in-game tests** were run.
 
 For this project, I renamed the GitHub repository **EmoteTrigger** to describe its action-triggered emote function more directly. The historical project name was **ROARemoteTrigger**; its installed addon is still **ROARTrigger**, using `ROARTrigger.lua`, `ROARTrigger.toc`, `/rogu` and `ROGUDB`. The repository rename does not change the game-client package.
+
+**Current project:** Roar Guild Addon Wrath (`RoarGuildAddonWrath` on GitHub). **Historical installed addon:** `ROARTrigger`, targeting Wrath 3.3.5 / interface 30300. This is the Wrath-era port of the Roar Guild addon, not a numbered sequel. After returning to the 1.12 client, I developed Roarboard in the separate Roar Guild Addon; Roarboard is not included in this Wrath version.
 
 **ROARTrigger** adds playful, configurable emotes to action-bar usage. You decide which slots might trigger a `/roar` (or another native emote) and how frequently. It is designed for **character flavor and ROAR guild atmosphere**, not damage optimization, spell casting or combat analysis.
 
@@ -17,7 +19,7 @@ The repository name, installed folder, addon title, and slash command are **not 
 
 | Purpose | Name |
 | --- | --- |
-| GitHub repository | `EmoteTrigger` |
+| GitHub repository | `RoarGuildAddonWrath` |
 | AddOns folder | `ROARTrigger` |
 | Lua source / TOC | `ROARTrigger.lua` / `ROARTrigger.toc` |
 | Displayed addon title | `RoarTrigger` (from the actual TOC) |
