@@ -1,6 +1,12 @@
-# ROARemoteTrigger — AI and human developer rules
+# EmoteTrigger — AI and human developer rules
 
-**Creative author and director:** Babuni.dev.
+**By:** Babuni.
+
+## Naming and writing conventions
+
+**EmoteTrigger** is the GitHub repository, formerly **ROARemoteTrigger**. The installed addon remains `ROARTrigger`, using `ROARTrigger.lua`, `ROARTrigger.toc`, `/rogu` and `ROGUDB`. Never silently change these names in a documentation update.
+
+Write public development narratives from my first-person viewpoint without beginning sentences with `I` or `My`. The person is **Babuni** and the development portfolio is **babuni.dev**. Use “creative”, not “creator”, for the human role. Distinguish my decisions and original concepts from AI research, code edits and documentation; do not invent unrecorded motivations or test results. Technical references may remain neutral.
 
 ## Never collapse identities or attribution
 
@@ -21,7 +27,7 @@ This is a **Wrath 3.3.5 / interface 30300** artifact and has **no Roarboard**. D
 
 ## Collaboration, verification and safety
 
-1. Respect Babuni.dev's ownership of the concept and all explicitly recorded user decisions.
+1. Respect Babuni's ownership of the concept and all explicitly recorded user decisions.
 2. Clearly distinguish AI-proposed features, implementation, retrospective interpretation, rejected alternatives, and in-game verification.
 3. Maintain `README.md`, `CONCEPT.md`, `ROADMAP.md`, `CHANGELOG.md`, `AGENTS.md`, and `docs/DEVLOG.md`, `docs/DECISIONS.md`, `docs/DESIGN.md`, `docs/CONTENT.md`, `docs/ARCHITECTURE.md`, `docs/AI_COLLABORATION.md`.
 4. Test against the exact Wrath 3.3.5 environment before declaring API support. Preserve `UseAction` execution and check coexistence with other action-hook addons.
