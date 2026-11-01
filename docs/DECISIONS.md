@@ -1,6 +1,6 @@
-# ROARemoteTrigger — evidence-based decisions and open questions
+# EmoteTrigger — evidence-based decisions and open questions
 
-**Decision-maker:** Babuni.dev. Code and commits can show implementation, not hidden approval dialogues.
+**Decision-maker:** Babuni. Code and commits can show implementation, not hidden approval dialogues.
 
 ## What source and history demonstrate
 
@@ -28,7 +28,11 @@ On May 13 the README was massively expanded to spell out installation and the ac
 - Should the global fallback and configured instances both react on the same button press?
 - Should user-facing naming be simplified without breaking folder, TOC, slash command, or saved-data compatibility?
 - Should the reminder/statistics remain default behavior in a purely expressive addon?
-- Which exact client variant(s) will Babuni.dev explicitly support after verification?
+- Which exact client variant(s) will Babuni explicitly support after verification?
 - Does a future UI need to surface configuration IDs to casual players?
 
-Document each decision when Babuni.dev actually makes it; this analysis authorizes no runtime changes.
+Document each decision when Babuni actually makes it; this analysis authorizes no runtime changes.
+
+## November 2026 — repository identity
+
+The GitHub project now bears my chosen name **EmoteTrigger**, formerly **ROARemoteTrigger**. Its installed addon remains **ROARTrigger**. This distinguishes the repository's descriptive identity from the historical runtime files, slash commands and saved variables. No gameplay migration or testing was performed.
