@@ -1,4 +1,4 @@
-# EmoteTrigger — creative and technical development journal
+# Roar Guild Addon Wrath — creative and technical development journal
 
 **Creative author:** Babuni.  
 **Source base:** Repository README, Lua, TOC and dated GitHub commit diffs inspected 2026-10-26. This is a **retrospective reconstruction**, not a transcript of every human–AI conversation.
@@ -58,3 +58,7 @@ The questions that remain concern real behavior in the target client: secure hoo
 ## November 2026 — EmoteTrigger
 
 The GitHub repository formerly known as **ROARemoteTrigger** is now named **EmoteTrigger**. I selected the shorter description for an addon that responds to action-bar presses with occasional character emotes. The source still carries the historical **ROARTrigger** identity and the `/rogu` command set, with a Wrath 3.3.5 interface target. At my request, an AI assistant revised the project documentation and attribution, without editing or testing the runtime addon.
+
+## November 2026 — why the Wrath port exists
+
+During my time on a Wrath 3.3.5 client, I ported the Roar Guild addon to that environment. After returning to the 1.12 client, I continued developing the other version and added Roarboard there. This explains why Roarboard is absent from my Wrath port. I chose the name **Roar Guild Addon Wrath**, and AI updated the documentation at my direction; no gameplay code or tests changed.
