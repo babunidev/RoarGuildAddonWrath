@@ -1,10 +1,10 @@
-# EmoteTrigger — AI and human developer rules
+# Roar Guild Addon Wrath — AI and human developer rules
 
 **By:** Babuni.
 
 ## Naming and writing conventions
 
-**EmoteTrigger** is the GitHub repository, formerly **ROARemoteTrigger**. The installed addon remains `ROARTrigger`, using `ROARTrigger.lua`, `ROARTrigger.toc`, `/rogu` and `ROGUDB`. Never silently change these names in a documentation update.
+**RoarGuildAddonWrath** is the current repository (previous names `ROARemoteTrigger` and `EmoteTrigger`). It is the Wrath 3.3.5 port of Roar Guild Addon; Roarboard was developed after the return to 1.12 and does not exist in this version. The installed addon remains `ROARTrigger`, using `ROARTrigger.lua`, `ROARTrigger.toc`, `/rogu` and `ROGUDB`. Never silently change these names in a documentation update.
 
 Write public development narratives from my first-person viewpoint without beginning sentences with `I` or `My`. The person is **Babuni** and the development portfolio is **babuni.dev**. Use “creative”, not “creator”, for the human role. Distinguish my decisions and original concepts from AI research, code edits and documentation; do not invent unrecorded motivations or test results. Technical references may remain neutral.
 
