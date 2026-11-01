@@ -1,10 +1,12 @@
-# ROARemoteTrigger — the creative concept
+# EmoteTrigger — the creative concept
 
-**Creator and creative director:** Babuni.dev  
+**By:** Babuni  
 **Working package name:** ROARTrigger  
 **Target:** Wrath 3.3.5 / TOC interface 30300.
 
 ## Give play an expressive afterbeat
+
+For this addon, I wanted a character's ordinary action-button presses to occasionally become a roleplay gesture. The new GitHub name **EmoteTrigger** brings that core interaction forward while keeping the original **ROARTrigger** addon identity intact.
 
 ROARemoteTrigger brings the ROAR idea—making a character feel alive through game-native emotes—to another game-client environment. The player does not have to interrupt combat or roleplay to remember a manual emote. A button they already press can *occasionally* produce an additional gesture, selected using an independently configured probability and time gate.
 
