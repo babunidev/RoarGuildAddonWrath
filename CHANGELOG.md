@@ -1,6 +1,6 @@
-# ROARemoteTrigger — changelog and dated evidence
+# EmoteTrigger — changelog and dated evidence
 
-**Project author:** Babuni.dev. The following dates are **Git commit dates**, not claimed public releases or runtime verification.
+**Project author:** Babuni. The following dates are **Git commit dates**, not claimed public releases or runtime verification.
 
 ## 2026-10-26 — full project documentation
 
@@ -21,3 +21,9 @@
 | **2026-10-26** | Earlier credit/docs commits | Standardized author credit and added a short documentation scaffold prior to this deeper audit. |
 
 The early file used the internal **RoarGuild** header, while this repository now has its own display name and client target. The source establishes close implementation relationship, but the inspected commit history does not include a complete original conversation, exact copy/port commit relationship, or all motivations.
+
+## 2026-11-01 — EmoteTrigger repository name
+
+- The GitHub repository was renamed from `ROARemoteTrigger` to **EmoteTrigger**.
+- At my direction, AI revised documentation, first-person narrative and attribution while retaining the **ROARTrigger** runtime names and original MIT license.
+- No Lua, TOC, license or in-game test was changed.
