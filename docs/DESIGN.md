@@ -1,6 +1,8 @@
-# ROARemoteTrigger — interaction and expression design
+# EmoteTrigger — interaction and expression design
 
-**Creative author:** Babuni.dev.
+The design gives action presses in my game an occasional expressive afterbeat. I renamed the repository **EmoteTrigger**, but the addon still uses the historical **ROARTrigger** identity.
+
+**Creative author:** Babuni.
 
 ## A gesture attached to something the player already does
 
@@ -36,4 +38,4 @@ The source has no Roarboard or shared posting panel. Copying descriptions of Roa
 - Does the guild copy fit in the selected server channel and its social etiquette?
 - Is the occasional local reminder still welcome after longer sessions?
 
-Keep these as questions until Babuni.dev tests and decides.
+Keep these as questions until Babuni tests and decides.
