@@ -1,6 +1,8 @@
-# ROARemoteTrigger — verification and decisions roadmap
+# EmoteTrigger — verification and decisions roadmap
 
-**Creator:** Babuni.dev  
+The GitHub repository is now **EmoteTrigger** (formerly ROARemoteTrigger). The installed addon remains **ROARTrigger**, with its original slash commands and saved variables; no code changes are part of this naming review.
+
+**Creator:** Babuni  
 **Not an implementation approval:** This document records test plans and options; no executable file was changed.
 
 ## Current implementation baseline
@@ -40,7 +42,7 @@
 15. Review whether runtime state and last-hour reporting fit the non-performance character-expression direction.
 16. Confirm the 33 recruitment messages are appropriate for target-server channel and character limits.
 
-## Open choices for Babuni.dev, not approved changes
+## Open choices for Babuni, not approved changes
 
 - Should both auto paths be allowed to emit on the same button press?
 - Should a user have a dedicated toggle for fallback or reminders (currently defaulted/limited by commands)?
