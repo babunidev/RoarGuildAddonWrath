@@ -1,6 +1,8 @@
-# ROARemoteTrigger — in-world content and vocabulary
+# EmoteTrigger — in-world content and vocabulary
 
-**Creative owner:** Babuni.dev.  
+This inventory belongs to the renamed **EmoteTrigger** repository, documenting the existing **ROARTrigger** addon content and guild invitation messages. The rename does not change game text or emote selections.
+
+**Creative owner:** Babuni.  
 **Canonical writing and emote lookup:** `ROARTrigger.lua`.
 
 ## Guild recruitment language
@@ -31,4 +33,4 @@ The interface prints simple local chat diagnostics and configuration values such
 
 ## Authorship / use in a public portfolio
 
-Credit the ROAR-themed writing direction to Babuni.dev and distinguish native game emote tokens from project-authored recruitment text. A docs-only reconstruction must not invent which collaborator first drafted each phrase. Do not copy player chat logs or confidential guild exchanges into the portfolio.
+Credit the ROAR-themed writing direction to Babuni and distinguish native game emote tokens from project-authored recruitment text. A docs-only reconstruction must not invent which collaborator first drafted each phrase. Do not copy player chat logs or confidential guild exchanges into the portfolio.
