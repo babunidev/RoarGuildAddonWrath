@@ -1,4 +1,6 @@
-# EmoteTrigger — code architecture (ROARTrigger 1.32)
+# Roar Guild Addon Wrath — code architecture (ROARTrigger 1.32)
+
+This is the Wrath 3.3.5 port of Roar Guild Addon, preserved under the original installed name **ROARTrigger**. Roarboard was developed later after my return to 1.12, and is absent from this port.
 
 This technical reference describes the original **ROARTrigger** implementation, now held in my **EmoteTrigger** GitHub repository. Its 3.3.5 interface target and runtime names are unchanged.
 
