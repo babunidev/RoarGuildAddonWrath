@@ -1,8 +1,14 @@
-# EmoteTrigger — the creative concept
+# Roar Guild Addon Wrath — the creative concept
 
 **By:** Babuni  
 **Working package name:** ROARTrigger  
 **Target:** Wrath 3.3.5 / TOC interface 30300.
+
+## The reason for a Wrath version
+
+While playing on a Wrath 3.3.5 client, I ported my Roar Guild addon to that environment. Later I returned to 1.12 and continued development there, including Roarboard. That board therefore belongs to the later 1.12 guild addon and is absent from the Wrath port. **Roar Guild Addon Wrath** is a descriptive client distinction, not a second numbered sequel.
+
+The GitHub repository is now `RoarGuildAddonWrath`, while its installed addon remains `ROARTrigger`.
 
 ## Give play an expressive afterbeat
 
