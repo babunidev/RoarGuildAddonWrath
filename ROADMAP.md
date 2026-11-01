@@ -2,7 +2,7 @@
 
 The repository is now **RoarGuildAddonWrath**, documenting the Wrath 3.3.5 port of my Roar Guild addon. After returning to WoW 1.12, I continued the separate guild addon and developed Roarboard there. This version does not include Roarboard; its installed name remains **ROARTrigger**.
 
-The GitHub repository is now **EmoteTrigger** (formerly ROARemoteTrigger). The installed addon remains **ROARTrigger**, with its original slash commands and saved variables; no code changes are part of this naming review.
+The GitHub repository is now **RoarGuildAddonWrath** (previously **ROARemoteTrigger** and briefly **EmoteTrigger**). The installed addon remains **ROARTrigger**, with its original commands and saved variables.
 
 **Creator:** Babuni  
 **Not an implementation approval:** This document records test plans and options; no executable file was changed.
