@@ -1,4 +1,4 @@
-# EmoteTrigger — changelog and dated evidence
+# Roar Guild Addon Wrath — changelog and dated evidence
 
 **Project author:** Babuni. The following dates are **Git commit dates**, not claimed public releases or runtime verification.
 
@@ -27,3 +27,9 @@ The early file used the internal **RoarGuild** header, while this repository now
 - The GitHub repository was renamed from `ROARemoteTrigger` to **EmoteTrigger**.
 - At my direction, AI revised documentation, first-person narrative and attribution while retaining the **ROARTrigger** runtime names and original MIT license.
 - No Lua, TOC, license or in-game test was changed.
+
+## 2026-11-01 — Roar Guild Addon Wrath
+
+- Renamed the GitHub project to `RoarGuildAddonWrath` at my direction.
+- AI updated documentation with my clarification of the Wrath port and later 1.12 Roarboard development.
+- No runtime files or tests changed.
