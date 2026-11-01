@@ -1,11 +1,13 @@
-# ROARemoteTrigger / ROARTrigger
+# EmoteTrigger / ROARTrigger
 
-**Created and directed by:** Babuni.dev  
-**Repository:** [`babunidev/ROARemoteTrigger`](https://github.com/babunidev/ROARemoteTrigger)  
+**By:** Babuni  
+**Repository:** [`babunidev/EmoteTrigger`](https://github.com/babunidev/EmoteTrigger)  
 **Installable addon name:** **ROARTrigger**  
 **Version:** **1.32**  
 **Target client:** World of Warcraft **Wrath 3.3.5**, interface **30300**  
 **Audit status (2026-10-26):** Git and Lua source reviewed; **no in-game tests** were run.
+
+I have renamed this GitHub project **EmoteTrigger** to describe its action-triggered emote function more directly. The historical project name was **ROARemoteTrigger**; its installed addon is still **ROARTrigger**, using `ROARTrigger.lua`, `ROARTrigger.toc`, `/rogu` and `ROGUDB`. The repository rename does not change the game-client package.
 
 **ROARTrigger** adds playful, configurable emotes to action-bar usage. You decide which slots might trigger a `/roar` (or another native emote) and how frequently. It is designed for **character flavor and ROAR guild atmosphere**, not damage optimization, spell casting or combat analysis.
 
@@ -15,7 +17,7 @@ The repository name, installed folder, addon title, and slash command are **not 
 
 | Purpose | Name |
 | --- | --- |
-| GitHub repository | `ROARemoteTrigger` |
+| GitHub repository | `EmoteTrigger` |
 | AddOns folder | `ROARTrigger` |
 | Lua source / TOC | `ROARTrigger.lua` / `ROARTrigger.toc` |
 | Displayed addon title | `RoarTrigger` (from the actual TOC) |
@@ -109,7 +111,7 @@ The current Lua source includes **33** randomized `<ROAR>` recruiting messages. 
 
 This is the **Wrath 3.3.5-focused ROARTrigger**, in the `ROARemoteTrigger` repository. It shares patterns and historical source naming with [RoarGuild](https://github.com/babunidev/RoarGuild), but it has a separate commit sequence, target client and package name. **It does not include the Roarboard message-board feature** present in the later 1.33 RoarGuild repo, and it does not contain the GodBod exercise system.
 
-For source provenance and how the package evolved, see [the journal](docs/DEVLOG.md). This repository is released with an [MIT license](LICENSE) credited to Babuni.dev. During the 2026-10-26 documentation pass, **Lua, TOC and LICENSE were left untouched**.
+For source provenance and how the package evolved, see [the journal](docs/DEVLOG.md). This repository is released with an [MIT license](LICENSE) credited to Babuni. During the 2026-10-26 documentation pass, **Lua, TOC and LICENSE were left untouched**.
 
 ## Development documentation
 
