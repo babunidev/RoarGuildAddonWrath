@@ -1,4 +1,6 @@
-# EmoteTrigger — verification and decisions roadmap
+# Roar Guild Addon Wrath — verification and decisions roadmap
+
+The repository is now **RoarGuildAddonWrath**, documenting the Wrath 3.3.5 port of my Roar Guild addon. After returning to WoW 1.12, I continued the separate guild addon and developed Roarboard there. This version does not include Roarboard; its installed name remains **ROARTrigger**.
 
 The GitHub repository is now **EmoteTrigger** (formerly ROARemoteTrigger). The installed addon remains **ROARTrigger**, with its original slash commands and saved variables; no code changes are part of this naming review.
 
