@@ -24,7 +24,7 @@ On May 13 the README was massively expanded to spell out installation and the ac
 
 ## Questions needing actual creator answers
 
-- Should the project remain a standalone Wrath-targeted package under `ROARemoteTrigger`, or eventually be consolidated with a later RoarGuild?
+- The project is now named `RoarGuildAddonWrath`; any future code consolidation with the separate `RoarGuildAddon` requires a new decision.
 - Should the global fallback and configured instances both react on the same button press?
 - Should user-facing naming be simplified without breaking folder, TOC, slash command, or saved-data compatibility?
 - Should the reminder/statistics remain default behavior in a purely expressive addon?
@@ -35,7 +35,7 @@ Document each decision when Babuni actually makes it; this analysis authorizes n
 
 ## November 2026 — repository identity
 
-The GitHub project now bears my chosen name **EmoteTrigger**, formerly **ROARemoteTrigger**. Its installed addon remains **ROARTrigger**. This distinguishes the repository's descriptive identity from the historical runtime files, slash commands and saved variables. No gameplay migration or testing was performed.
+**EmoteTrigger** was an intermediate name after **ROARemoteTrigger**; the current name is **Roar Guild Addon Wrath**. Its installed addon remains **ROARTrigger**. This distinguishes the repository's descriptive identity from the historical runtime files, slash commands and saved variables. No gameplay migration or testing was performed.
 
 ## November 2026 — current project name
 
