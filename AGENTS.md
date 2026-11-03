@@ -39,3 +39,7 @@ This 2026-10-26 session **only** adds/rewrites Markdown documentation and report
 ## Cross-project naming and behavior
 
 Consult [the family history](docs/EMOTE_FAMILY_HISTORY.md) before making lineage claims. The current repository is RoarGuildAddonWrath; the installed addon is ROARTrigger. Its editable native-token registry belongs to the Roar Guild lineage, while later Roarboard belongs only to the separate Vanilla guild-addon release. Keep the author's first-person development history and accurate attribution.
+
+## Repository-local documentation standard
+
+Before writing or changing project documentation, read [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md). These rules travel with this repository and do not depend on the babuni.dev ChatGPT Project. Preserve all project-specific technical, creative, canon, safety, licensing, and historical rules in this file; follow the linked standard for public first-person narrative, human–AI attribution, concise development journals, decision records, and evidence-based verification. **Babuni** is the human creative; **babuni.dev** is the website/portfolio, not the person. Preserve third-party credits and historical legal notices. References above to a dated “documentation-only audit” describe that past task, not a permanent ban on later authorized implementation.
