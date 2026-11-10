@@ -1,4 +1,4 @@
-# Roar Guild Addon Wrath — creative and technical development journal
+# Roar Guild Addon Wrath — development journal
 
 **Creative author:** Babuni.  
 **Source base:** Repository README, Lua, TOC and dated GitHub commit diffs inspected 2026-10-26. This is a **retrospective reconstruction**, not a transcript of every human–AI conversation.
