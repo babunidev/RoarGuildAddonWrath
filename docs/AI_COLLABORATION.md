@@ -1,5 +1,7 @@
 # Roar Guild Addon Wrath — human–AI collaboration and provenance
 
+Follow [the documentation standard](DOCUMENTATION.md) for first-person author voice throughout project documentation, factual changelogs, and naming the AI tool and verified model for each contribution.
+
 **Creator and creative director:** Babuni.
 
 ## Creative ownership
